@@ -49,6 +49,6 @@ def main():
     
     # Install TMAC
     install_tmac()
-
+    print("your all good, stop lego cheating untill some reputable executor shows up lol")
 if __name__ == "__main__":
     main()
